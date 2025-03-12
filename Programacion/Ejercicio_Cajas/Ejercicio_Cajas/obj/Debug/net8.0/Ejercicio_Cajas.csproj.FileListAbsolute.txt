@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\bin\Debug\net8.0\Ejercicio_Cajas.exe
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\bin\Debug\net8.0\Ejercicio_Cajas.deps.json
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\bin\Debug\net8.0\Ejercicio_Cajas.runtimeconfig.json
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\bin\Debug\net8.0\Ejercicio_Cajas.dll
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\bin\Debug\net8.0\Ejercicio_Cajas.pdb
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.dll
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\refint\Ejercicio_Cajas.dll
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.pdb
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\Ejercicio_Cajas.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Ejercicio_Cajas\Ejercicio_Cajas\obj\Debug\net8.0\ref\Ejercicio_Cajas.dll

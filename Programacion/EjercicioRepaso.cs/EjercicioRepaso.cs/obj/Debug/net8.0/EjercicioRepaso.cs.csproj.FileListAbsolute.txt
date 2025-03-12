@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\bin\Debug\net8.0\EjercicioRepaso.cs.exe
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\bin\Debug\net8.0\EjercicioRepaso.cs.deps.json
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\bin\Debug\net8.0\EjercicioRepaso.cs.runtimeconfig.json
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\bin\Debug\net8.0\EjercicioRepaso.cs.dll
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\bin\Debug\net8.0\EjercicioRepaso.cs.pdb
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.dll
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\refint\EjercicioRepaso.cs.dll
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.pdb
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\EjercicioRepaso.cs.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\EjercicioRepaso.cs\EjercicioRepaso.cs\obj\Debug\net8.0\ref\EjercicioRepaso.cs.dll
