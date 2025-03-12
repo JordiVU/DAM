@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\bin\Debug\net8.0\HogarDomotico.cs.exe
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\bin\Debug\net8.0\HogarDomotico.cs.deps.json
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\bin\Debug\net8.0\HogarDomotico.cs.runtimeconfig.json
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\bin\Debug\net8.0\HogarDomotico.cs.dll
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\bin\Debug\net8.0\HogarDomotico.cs.pdb
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.dll
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\refint\HogarDomotico.cs.dll
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.pdb
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\HogarDomotico.cs.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\HogarDomotico.cs\HogarDomotico.cs\obj\Debug\net8.0\ref\HogarDomotico.cs.dll

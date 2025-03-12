@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Instituto\Instituto\bin\Debug\net8.0\Instituto.exe
+C:\Users\Jordi\source\repos\Instituto\Instituto\bin\Debug\net8.0\Instituto.deps.json
+C:\Users\Jordi\source\repos\Instituto\Instituto\bin\Debug\net8.0\Instituto.runtimeconfig.json
+C:\Users\Jordi\source\repos\Instituto\Instituto\bin\Debug\net8.0\Instituto.dll
+C:\Users\Jordi\source\repos\Instituto\Instituto\bin\Debug\net8.0\Instituto.pdb
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.dll
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\refint\Instituto.dll
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.pdb
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\Instituto.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Instituto\Instituto\obj\Debug\net8.0\ref\Instituto.dll
