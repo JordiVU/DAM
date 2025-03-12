@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estaticos", "Estaticos\Estaticos.csproj", "{337E9ACB-1862-4CBC-AA70-0D9BEEC8FF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337E9ACB-1862-4CBC-AA70-0D9BEEC8FF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337E9ACB-1862-4CBC-AA70-0D9BEEC8FF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337E9ACB-1862-4CBC-AA70-0D9BEEC8FF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337E9ACB-1862-4CBC-AA70-0D9BEEC8FF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E36D04-1A74-438D-A7A1-CA5D76C004EB}
+	EndGlobalSection
+EndGlobal

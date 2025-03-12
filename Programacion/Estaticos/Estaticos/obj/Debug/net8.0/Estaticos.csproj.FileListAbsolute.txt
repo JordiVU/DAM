@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\bin\Debug\net8.0\Estaticos.exe
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\bin\Debug\net8.0\Estaticos.deps.json
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\bin\Debug\net8.0\Estaticos.runtimeconfig.json
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\bin\Debug\net8.0\Estaticos.dll
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\bin\Debug\net8.0\Estaticos.pdb
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.dll
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\refint\Estaticos.dll
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.pdb
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\Estaticos.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Estaticos\Estaticos\obj\Debug\net8.0\ref\Estaticos.dll

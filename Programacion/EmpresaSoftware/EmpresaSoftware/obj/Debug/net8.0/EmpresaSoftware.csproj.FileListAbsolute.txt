@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\bin\Debug\net8.0\EmpresaSoftware.exe
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\bin\Debug\net8.0\EmpresaSoftware.deps.json
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\bin\Debug\net8.0\EmpresaSoftware.runtimeconfig.json
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\bin\Debug\net8.0\EmpresaSoftware.dll
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\bin\Debug\net8.0\EmpresaSoftware.pdb
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.dll
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\refint\EmpresaSoftware.dll
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.pdb
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\EmpresaSoftware.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\EmpresaSoftware\EmpresaSoftware\obj\Debug\net8.0\ref\EmpresaSoftware.dll

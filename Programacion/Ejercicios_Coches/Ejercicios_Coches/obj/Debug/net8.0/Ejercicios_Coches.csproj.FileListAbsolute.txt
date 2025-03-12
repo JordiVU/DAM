@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\bin\Debug\net8.0\Ejercicios_Coches.exe
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\bin\Debug\net8.0\Ejercicios_Coches.deps.json
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\bin\Debug\net8.0\Ejercicios_Coches.runtimeconfig.json
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\bin\Debug\net8.0\Ejercicios_Coches.dll
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\bin\Debug\net8.0\Ejercicios_Coches.pdb
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.dll
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\refint\Ejercicios_Coches.dll
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.pdb
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\Ejercicios_Coches.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Ejercicios_Coches\Ejercicios_Coches\obj\Debug\net8.0\ref\Ejercicios_Coches.dll
