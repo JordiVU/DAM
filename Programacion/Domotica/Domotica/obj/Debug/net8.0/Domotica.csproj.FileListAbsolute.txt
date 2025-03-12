@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Domotica\Domotica\bin\Debug\net8.0\Domotica.exe
+C:\Users\Jordi\source\repos\Domotica\Domotica\bin\Debug\net8.0\Domotica.deps.json
+C:\Users\Jordi\source\repos\Domotica\Domotica\bin\Debug\net8.0\Domotica.runtimeconfig.json
+C:\Users\Jordi\source\repos\Domotica\Domotica\bin\Debug\net8.0\Domotica.dll
+C:\Users\Jordi\source\repos\Domotica\Domotica\bin\Debug\net8.0\Domotica.pdb
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.dll
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\refint\Domotica.dll
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.pdb
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\Domotica.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Domotica\Domotica\obj\Debug\net8.0\ref\Domotica.dll

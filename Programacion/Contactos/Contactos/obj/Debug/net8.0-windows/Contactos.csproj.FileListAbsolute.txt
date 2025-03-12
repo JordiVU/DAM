@@ -1,0 +1,16 @@
+C:\Users\Jordi\source\repos\Contactos\Contactos\bin\Debug\net8.0-windows\Contactos.exe
+C:\Users\Jordi\source\repos\Contactos\Contactos\bin\Debug\net8.0-windows\Contactos.deps.json
+C:\Users\Jordi\source\repos\Contactos\Contactos\bin\Debug\net8.0-windows\Contactos.runtimeconfig.json
+C:\Users\Jordi\source\repos\Contactos\Contactos\bin\Debug\net8.0-windows\Contactos.dll
+C:\Users\Jordi\source\repos\Contactos\Contactos\bin\Debug\net8.0-windows\Contactos.pdb
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.Contactos.resources
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.csproj.GenerateResource.cache
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.dll
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\refint\Contactos.dll
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.pdb
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\Contactos.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Contactos\Contactos\obj\Debug\net8.0-windows\ref\Contactos.dll
