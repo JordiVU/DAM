@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\bin\Debug\net8.0\SolicitudesAdministracionV2.exe
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\bin\Debug\net8.0\SolicitudesAdministracionV2.deps.json
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\bin\Debug\net8.0\SolicitudesAdministracionV2.runtimeconfig.json
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\bin\Debug\net8.0\SolicitudesAdministracionV2.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\bin\Debug\net8.0\SolicitudesAdministracionV2.pdb
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\refint\SolicitudesAdministracionV2.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.pdb
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracionV2.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\ref\SolicitudesAdministracionV2.dll

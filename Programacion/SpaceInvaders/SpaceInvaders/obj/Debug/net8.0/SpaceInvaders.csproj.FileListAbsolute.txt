@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\net8.0\SpaceInvaders.exe
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\net8.0\SpaceInvaders.deps.json
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\net8.0\SpaceInvaders.runtimeconfig.json
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\net8.0\SpaceInvaders.dll
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\net8.0\SpaceInvaders.pdb
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.dll
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\refint\SpaceInvaders.dll
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.pdb
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\net8.0\ref\SpaceInvaders.dll

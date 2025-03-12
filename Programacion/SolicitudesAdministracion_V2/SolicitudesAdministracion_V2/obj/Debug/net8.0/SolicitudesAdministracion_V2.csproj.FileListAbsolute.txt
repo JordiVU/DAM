@@ -1,0 +1,4 @@
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracion_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracion_V2.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracion_V2.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\SolicitudesAdministracion_V2\SolicitudesAdministracion_V2\obj\Debug\net8.0\SolicitudesAdministracion_V2.csproj.CoreCompileInputs.cache
