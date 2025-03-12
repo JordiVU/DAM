@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Puertas\Puertas\bin\Debug\net8.0\Puertas.exe
+C:\Users\Jordi\source\repos\Puertas\Puertas\bin\Debug\net8.0\Puertas.deps.json
+C:\Users\Jordi\source\repos\Puertas\Puertas\bin\Debug\net8.0\Puertas.runtimeconfig.json
+C:\Users\Jordi\source\repos\Puertas\Puertas\bin\Debug\net8.0\Puertas.dll
+C:\Users\Jordi\source\repos\Puertas\Puertas\bin\Debug\net8.0\Puertas.pdb
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.dll
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\refint\Puertas.dll
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.pdb
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\Puertas.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Puertas\Puertas\obj\Debug\net8.0\ref\Puertas.dll

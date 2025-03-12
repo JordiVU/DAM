@@ -1,0 +1,17 @@
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.Principal.resources
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.Properties.Resources.resources
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.csproj.GenerateResource.cache
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\bin\Debug\net8.0-windows\PruebaWindows.exe
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\bin\Debug\net8.0-windows\PruebaWindows.deps.json
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\bin\Debug\net8.0-windows\PruebaWindows.runtimeconfig.json
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\bin\Debug\net8.0-windows\PruebaWindows.dll
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\bin\Debug\net8.0-windows\PruebaWindows.pdb
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.dll
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\refint\PruebaWindows.dll
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.pdb
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\PruebaWindows.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\PruebaWindows\PruebaWindows\obj\Debug\net8.0-windows\ref\PruebaWindows.dll
