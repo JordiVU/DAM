@@ -1,0 +1,3 @@
+COD;Shooter
+Hollow Knight;Rogue Like
+Arma 3;Tactical Shooter;8;40
