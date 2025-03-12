@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\bin\Debug\net8.0\JuegosMesa.exe
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\bin\Debug\net8.0\JuegosMesa.deps.json
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\bin\Debug\net8.0\JuegosMesa.runtimeconfig.json
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\bin\Debug\net8.0\JuegosMesa.dll
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\bin\Debug\net8.0\JuegosMesa.pdb
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.dll
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\refint\JuegosMesa.dll
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.pdb
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\JuegosMesa.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\JuegosMesa\JuegosMesa\obj\Debug\net8.0\ref\JuegosMesa.dll

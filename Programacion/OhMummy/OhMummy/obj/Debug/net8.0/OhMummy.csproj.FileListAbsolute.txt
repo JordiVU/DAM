@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\bin\Debug\net8.0\OhMummy.exe
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\bin\Debug\net8.0\OhMummy.deps.json
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\bin\Debug\net8.0\OhMummy.runtimeconfig.json
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\bin\Debug\net8.0\OhMummy.dll
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\bin\Debug\net8.0\OhMummy.pdb
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.dll
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\refint\OhMummy.dll
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.pdb
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\OhMummy.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\OhMummy\OhMummy\obj\Debug\net8.0\ref\OhMummy.dll
