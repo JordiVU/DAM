@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hola</title>
+        <style>
+            @keyframes cambiarColor {
+                from {background-color: red;}
+                to {background-color: blue;}
+            }
+
+            @keyframes moverCirculo {
+                from {transform: translateX(0);}
+                to {transform: translate(200px);}
+            }
+
+            .cuadro {
+                width: 100px;
+                height: 100px;
+                background-color: red;
+                animation: cambiarColor 3s infinite alternate;
+            }
+
+            .circulo {
+                width: 100px;
+                height: 100px;
+                background-color: green;
+                border-radius: 50%;
+                animation: moverCirculo 0.01s infinite alternate;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="cuadro"></div>
+        <div class="circulo"></div>
+    </body>
+</html>

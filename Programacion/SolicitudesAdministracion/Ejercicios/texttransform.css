@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+#p1 {
+    letter-spacing: 10px;
+    text-align: justify;
+}
+
+#p2 {
+    text-transform: capitalize;
+}

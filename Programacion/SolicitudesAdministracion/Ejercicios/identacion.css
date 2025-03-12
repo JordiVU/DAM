@@ -1,0 +1,12 @@
+p.primero {
+    white-space: pre;
+}
+
+p.segundo {
+    text-indent: 1em;
+    white-space: pre;
+}
+
+p.tercero {
+    white-space: nowrap;
+}

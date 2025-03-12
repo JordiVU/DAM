@@ -1,0 +1,25 @@
+
+table {
+    text-align: justify;
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid grey;
+}
+
+th {
+    background-color: rgb(39, 30, 30);
+    border: 1px solid grey;
+    color: white;
+}
+
+ul {
+    list-style-image: url(bobIcono.png);
+}
+
+.gris {
+    background-color: rgba(202, 202, 202, 0.382);
+}

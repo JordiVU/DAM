@@ -1,0 +1,21 @@
+ul {
+    border: 1px solid rgb(77, 220, 77);
+    list-style-type: armenian;
+    border-radius: 10px;
+    width: 10%;
+    color: green;
+}
+
+li {
+    border-bottom: 1px solid rgb(77, 220, 77);
+    border-left: 1px solid rgb(77, 220, 77);
+}
+
+li:last-child {
+    border-bottom: 0px solid black;
+}
+
+li:hover {
+    background-color: rgb(77, 220, 77);
+    color: white;
+}

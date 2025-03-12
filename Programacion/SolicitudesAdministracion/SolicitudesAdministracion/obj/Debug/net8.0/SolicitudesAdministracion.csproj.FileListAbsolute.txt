@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.exe
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.deps.json
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.runtimeconfig.json
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.pdb
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\refint\SolicitudesAdministracion.dll
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.pdb
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\ref\SolicitudesAdministracion.dll
