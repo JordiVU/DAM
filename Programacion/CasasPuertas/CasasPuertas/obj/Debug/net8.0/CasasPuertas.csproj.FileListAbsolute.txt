@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\bin\Debug\net8.0\CasasPuertas.exe
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\bin\Debug\net8.0\CasasPuertas.deps.json
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\bin\Debug\net8.0\CasasPuertas.runtimeconfig.json
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\bin\Debug\net8.0\CasasPuertas.dll
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\bin\Debug\net8.0\CasasPuertas.pdb
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.dll
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\refint\CasasPuertas.dll
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.pdb
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\CasasPuertas.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\CasasPuertas\CasasPuertas\obj\Debug\net8.0\ref\CasasPuertas.dll

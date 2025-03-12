@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\bin\Debug\net8.0\CalificacionTrabajo.exe
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\bin\Debug\net8.0\CalificacionTrabajo.deps.json
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\bin\Debug\net8.0\CalificacionTrabajo.runtimeconfig.json
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\bin\Debug\net8.0\CalificacionTrabajo.dll
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\bin\Debug\net8.0\CalificacionTrabajo.pdb
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.dll
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\refint\CalificacionTrabajo.dll
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.pdb
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\CalificacionTrabajo.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\CalificacionTrabajo\CalificacionTrabajo\obj\Debug\net8.0\ref\CalificacionTrabajo.dll

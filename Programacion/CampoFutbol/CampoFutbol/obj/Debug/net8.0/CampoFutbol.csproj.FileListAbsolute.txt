@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\bin\Debug\net8.0\CampoFutbol.exe
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\bin\Debug\net8.0\CampoFutbol.deps.json
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\bin\Debug\net8.0\CampoFutbol.runtimeconfig.json
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\bin\Debug\net8.0\CampoFutbol.dll
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\bin\Debug\net8.0\CampoFutbol.pdb
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.dll
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\refint\CampoFutbol.dll
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.pdb
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\CampoFutbol.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\CampoFutbol\CampoFutbol\obj\Debug\net8.0\ref\CampoFutbol.dll
