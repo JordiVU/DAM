@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\bin\Debug\net8.0\Trabajadores.exe
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\bin\Debug\net8.0\Trabajadores.deps.json
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\bin\Debug\net8.0\Trabajadores.runtimeconfig.json
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\bin\Debug\net8.0\Trabajadores.dll
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\bin\Debug\net8.0\Trabajadores.pdb
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.dll
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\refint\Trabajadores.dll
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.pdb
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\Trabajadores.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Trabajadores\Trabajadores\obj\Debug\net8.0\ref\Trabajadores.dll
