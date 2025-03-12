@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\bin\Debug\net8.0\ParqueAtracciones.exe
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\bin\Debug\net8.0\ParqueAtracciones.deps.json
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\bin\Debug\net8.0\ParqueAtracciones.runtimeconfig.json
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\bin\Debug\net8.0\ParqueAtracciones.dll
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\bin\Debug\net8.0\ParqueAtracciones.pdb
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.dll
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\refint\ParqueAtracciones.dll
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.pdb
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ParqueAtracciones.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\ExamenParcial2Eva\ExamenParcial2Eva\obj\Debug\net8.0\ref\ParqueAtracciones.dll
