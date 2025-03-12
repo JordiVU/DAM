@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\bin\Debug\net8.0\Ejercicio_07a_07.exe
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\bin\Debug\net8.0\Ejercicio_07a_07.deps.json
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\bin\Debug\net8.0\Ejercicio_07a_07.runtimeconfig.json
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\bin\Debug\net8.0\Ejercicio_07a_07.dll
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\bin\Debug\net8.0\Ejercicio_07a_07.pdb
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.dll
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\refint\Ejercicio_07a_07.dll
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.pdb
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\Ejercicio_07a_07.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Ejercicio_07a_07\Ejercicio_07a_07\obj\Debug\net8.0\ref\Ejercicio_07a_07.dll
