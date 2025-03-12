@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\bin\Debug\net8.0\PqFunciona.exe
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\bin\Debug\net8.0\PqFunciona.deps.json
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\bin\Debug\net8.0\PqFunciona.runtimeconfig.json
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\bin\Debug\net8.0\PqFunciona.dll
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\bin\Debug\net8.0\PqFunciona.pdb
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.dll
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\refint\PqFunciona.dll
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.pdb
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\PqFunciona.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\PqFunciona\PqFunciona\obj\Debug\net8.0\ref\PqFunciona.dll

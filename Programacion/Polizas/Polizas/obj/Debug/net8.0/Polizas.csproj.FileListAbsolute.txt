@@ -1,0 +1,14 @@
+C:\Users\Jordi\source\repos\Polizas\Polizas\bin\Debug\net8.0\Polizas.exe
+C:\Users\Jordi\source\repos\Polizas\Polizas\bin\Debug\net8.0\Polizas.deps.json
+C:\Users\Jordi\source\repos\Polizas\Polizas\bin\Debug\net8.0\Polizas.runtimeconfig.json
+C:\Users\Jordi\source\repos\Polizas\Polizas\bin\Debug\net8.0\Polizas.dll
+C:\Users\Jordi\source\repos\Polizas\Polizas\bin\Debug\net8.0\Polizas.pdb
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.AssemblyInfoInputs.cache
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.AssemblyInfo.cs
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.csproj.CoreCompileInputs.cache
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.dll
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\refint\Polizas.dll
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.pdb
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\Polizas.genruntimeconfig.cache
+C:\Users\Jordi\source\repos\Polizas\Polizas\obj\Debug\net8.0\ref\Polizas.dll
