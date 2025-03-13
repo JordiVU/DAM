@@ -1,4 +1,0 @@
-jordi;19
-jorge;14
-santi;19
-cepeda;40
